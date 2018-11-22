@@ -9,15 +9,15 @@ For this assignment I had to add three features to this app then deploy it. My a
 
 ## **The features I added to the app are as follows:**
 
-1) Add an image of the BC Liquor Store to the UI.
-2) Experiment with packages that add extra features to Shiny, I used shinythemes.
-3) Allow the user to search for multiple alcohol types simultaneously, instead of being able to choose only wines/beers/etc.
-4) Additionally, I used the DT package to create an interactive table for the search results
+1) Add an image of the BC Liquor Store to the UI. :heavy_check_mark:
+2) Experiment with packages that add extra features to Shiny, I used shinythemes. :heavy_check_mark:
+3) Allow the user to search for multiple alcohol types simultaneously, instead of being able to choose only wines/beers/etc. :heavy_check_mark:
+4) Additionally, I used the DT package to create an interactive table for the search results. :heavy_check_mark:
 
 ## **I also met the following expecations:**
 
-1) There’s at least one new functional widget that modifies at least one output.
-2) There’s at least one change the ui (aside from the addition of a widget).
+1) There’s at least one new functional widget that modifies at least one output. :heavy_check_mark:
+2) There’s at least one change the ui (aside from the addition of a widget). :heavy_check_mark:
 
 Cheers,
 Katie

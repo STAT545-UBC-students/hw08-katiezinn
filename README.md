@@ -5,7 +5,7 @@
 
 For this assignment I used the BC Liquor app as a template. The code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial). The code can specifically be found [here](https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code).
 
-For this assignment I had to add three features to this app then deploy it. My app can be found [at this link](https://katiezinn.shinyapps.io/HW08_KatieZinn/). Additionally, my raw R code can be found [here](https://github.com/STAT545-UBC-students/hw08-katiezinn/blob/master/app.R)
+For this assignment I had to add three features to this app then deploy it. My app can be found [at this link](https://katiezinn.shinyapps.io/HW08_KatieZinn/). Additionally, my raw R code can be found [here](https://github.com/STAT545-UBC-students/hw08-katiezinn/blob/master/app.R). I put comments next to the changes I made so you can tell where I added the features in.
 
 ## **The features I added to the app are as follows:**
 

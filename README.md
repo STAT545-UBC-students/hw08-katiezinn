@@ -10,8 +10,9 @@ For this assignment I had to add three features to this app then deploy it. My a
 ## **The features I added to the app are as follows:**
 
 1) Add an image of the BC Liquor Store to the UI.
-2) Experiment with packages that add extra features to Shiny, such as shinyjs, leaflet, shinydashboard, shinythemes, ggvis.
+2) Experiment with packages that add extra features to Shiny, I used shinythemes.
 3) Allow the user to search for multiple alcohol types simultaneously, instead of being able to choose only wines/beers/etc.
+4) Additionally, I used the DT package to create an interactive table for the search results
 
 ## **I also met the following expecations:**
 

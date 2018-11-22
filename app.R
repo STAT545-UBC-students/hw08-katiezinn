@@ -13,7 +13,7 @@ ui <- fluidPage(
 #adding BCL image to the top of the page
 		img(src = "BCL_Logo.png"),
 #changing the name of the title panel
-  titlePanel("Prices by origin and drink type"),
+  titlePanel("Prices and alcohol content by origin and drink type"),
   sidebarLayout(
     sidebarPanel(
       sliderInput("priceInput", "Price", 0, 100, c(25, 40), pre = "$"),

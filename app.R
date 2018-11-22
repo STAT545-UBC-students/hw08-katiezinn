@@ -41,7 +41,7 @@ server <- function(input, output) {
                 selected = "CANADA")
   })  
 #adding the subtype, with it starting on dry gin
-  output$subtypeOutput <- renderUI({
+output$subtypeOutput <- renderUI({
   	selectInput("subtypeInput", "Subtype",
   							sort(unique(bcl$Subtype)),
   							selected = "DRY GIN")

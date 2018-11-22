@@ -43,8 +43,8 @@ server <- function(input, output) {
 #adding the subtype, with it starting on dry gin
   output$subtypeOutput <- renderUI({
   	selectInput("subtypeInput", "Subtype",
-  						sort(unique(bcl[bcl$Type == input$typeInput, ]$Subtype)),
-  						selected = "DRY GIN")
+  							sort(unique(bcl[bcl$Type == input$typeInput, ]$Subtype)),
+  							selected = "DRY GIN")
   })
   
   filtered <- reactive({

@@ -5,8 +5,8 @@ account: katiezinn
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 584117
-bundleId: 1714122
+bundleId: 1714126
 url: https://katiezinn.shinyapps.io/HW08_KatieZinn/
-when: 1542846890.58348
+when: 1542847165.6091
 asMultiple: FALSE
 asStatic: FALSE
